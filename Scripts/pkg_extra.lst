@@ -7,6 +7,7 @@ wttrbar                                                # for weather
 python-requests|wttrbar                                # script dependency
 # ddcui                                                # GUI to control brightness for external monitors
 # hyprgui-bin                                          # GUI for hyprland configuration // might mess your userprefs but convenient // Just disappeared
+# power-profiles-daemon                                # for managing power profiles from waybar
 
 # --------------------------------------------------- // Shell
 
@@ -44,10 +45,10 @@ pokego-bin|zsh                                           # display pokemon sprit
 # visual-studio-code-bin                                # MS  text editor
 
 # --------------------------------------------------- // Backends
-#electron                                              # electron backend
+# electron                                              # electron backend
 
 # --------------------------------------------------- // Lockscreen
-#swaylock-effects-git                                   # swaylock with effects // very minimal lockscreen
+# swaylock-effects-git                                  # swaylock with effects // very minimal lockscreen
 
 # --------------------------------------------------- // OSD
-swayosd-git                                             #A GTK based on screen display for keyboard shortcuts like caps-lock and volume
+swayosd-git                                             # A GTK based on screen display for keyboard shortcuts like caps-lock and volume
